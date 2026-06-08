@@ -4,11 +4,10 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1000&color=FF1F1F&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=90&lines=initializing+classified+protocol...;threat+level+%3A+MAXIMUM;Star+our+project._" alt="typing terminal"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1000&color=FF1F1F&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=100&lines=We+will+open+your+eyes...;And+grant+you+access+to+ultimate+power.;Star+our+project._" alt="typing terminal"/>
 
 <br/><br/>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=secret-tools.secret-tools&left_text=INTRUDERS&right_text=DETECTED&left_color=0a0a0f&right_color=ff1f1f"/>
 <img src="https://img.shields.io/badge/STATUS-ONLINE-ff1f1f?style=for-the-badge&labelColor=0a0a0f"/>
 <img src="https://img.shields.io/badge/CLEARANCE-CLASSIFIED-8b0000?style=for-the-badge&labelColor=0a0a0f"/>
 <img src="https://img.shields.io/badge/THREAT-MAXIMUM-ff1f1f?style=for-the-badge&labelColor=0a0a0f"/>
@@ -52,36 +51,14 @@ root@void:~# ./deploy --mode silent --target discord
 
 <br/>
 
-> **they built tools.** we built what comes after.  
-> not a fork. not a trend. a signal in the noise.
-
-<br/>
-
 <div align="center">
 
-| <img src="https://img.shields.io/badge/void--tools-ARCHIVED-0a0a0f?style=flat-square&labelColor=ff1f1f"/> | <img src="https://img.shields.io/badge/void--nuke-ARCHIVED-0a0a0f?style=flat-square&labelColor=ff1f1f"/> | <img src="https://img.shields.io/badge/redtiger-ARCHIVED-0a0a0f?style=flat-square&labelColor=ff1f1f"/> | <img src="https://img.shields.io/badge/navi--tools-ARCHIVED-0a0a0f?style=flat-square&labelColor=ff1f1f"/> |
-|:---:|:---:|:---:|:---:|
+> **Secret-Tools will be the most powerful of all.**
 
 </div>
 
 <br/>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=secret-tools&show_icons=true&theme=transparent&hide_border=true&bg_color=0a0a0f00&title_color=ff1f1f&icon_color=ff1f1f&text_color=c9d1d9&rank_icon=percentile&custom_title=OPERATOR%20STATS" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=secret-tools&theme=transparent&hide_border=true&background=0a0a0f00&ring=ff1f1f&fire=ff1f1f&currStreakLabel=ff1f1f&sideLabels=ff1f1f&currStreakNum=ffffff&sideNums=ffffff&dates=6e7681" height="165"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=secret-tools&theme=red&hide_border=true&bg_color=0a0a0f&color=ff1f1f&line=ff1f1f&point=ff1f1f&area=true&area_color=ff1f1f&title_color=ff1f1f&custom_title=NEURAL%20ACTIVITY" width="95%"/>
-
-</div>
-
-<br/>
 
 <div align="center">
 
