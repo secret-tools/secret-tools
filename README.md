@@ -30,13 +30,12 @@ root@void:~# cat /sys/manifesto.log
 > You probably know void-tools, void-nuke, redtiger, navi-tools...
 > But we are way above.
 > You are not ready.
-> We are going to open your eyes to the world.
+> We will open your eyes...
+> And grant you access to ultimate power.
+> Star our project.
 
 root@void:~# cat /sys/power.log
-> nos outils feront de vous des monstres de puissance.
-
-root@void:~# ./deploy --mode silent --target discord
-[████████████░░░░░░░░] forging tools in the void...
+> our tools will make you monsters of power.
 ```
 
 <br clear="left"/>
