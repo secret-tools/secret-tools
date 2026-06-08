@@ -59,7 +59,6 @@ root@void:~# ./deploy --mode silent --target discord
 
 <br/>
 
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0f,100:16161c&height=50&section=header&text=A%20R%20S%20E%20N%20A%20L&fontSize=18&fontColor=ff1f1f" width="80%"/>
