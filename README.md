@@ -53,7 +53,7 @@ root@void:~# ./deploy --mode silent --target discord
 
 <div align="center">
 
-> **Secret-Tools will be the most powerful of all.**
+<img src="https://img.shields.io/badge/Secret--Tools-ff1f1f?style=for-the-badge&labelColor=ff1f1f"/>
 
 </div>
 
