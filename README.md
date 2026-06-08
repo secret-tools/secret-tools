@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1000&color=FF1F1F&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=100&lines=initializing+classified+protocol...;threat+level+%3A+MAXIMUM;Nous+allons+vous+ouvrir+les+yeux...;et+vous+donner+acc%C3%A8s+%C3%A0+la+puissance+ultime._" alt="typing terminal"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1000&color=FF1F1F&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=90&lines=initializing+classified+protocol...;threat+level+%3A+MAXIMUM;Star+our+project._" alt="typing terminal"/>
 
 <br/><br/>
 
