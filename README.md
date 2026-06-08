@@ -90,7 +90,7 @@ root@void:~# cat /sys/power.log
 
 <br/>
 
-<img src="https://img.shields.io/badge/DISCORD-join%20the%20void-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0a0a0f"/>
+<img src="https://img.shields.io/badge/SECRET--TOOLS-ff1f1f?style=for-the-badge&labelColor=ff1f1f"/>
 <img src="https://img.shields.io/badge/GITHUB-secret--tools-ff1f1f?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0f"/>
 
 </div>
