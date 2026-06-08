@@ -44,69 +44,6 @@ root@void:~# cat /sys/power.log
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0f,100:16161c&height=50&section=header&text=S%20Y%20S%20T%20E%20M%20%20%20L%20O%20G&fontSize=18&fontColor=ff1f1f" width="80%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Secret--Tools-ff1f1f?style=for-the-badge&labelColor=ff1f1f"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0f,100:16161c&height=50&section=header&text=A%20R%20S%20E%20N%20A%20L&fontSize=18&fontColor=ff1f1f" width="80%"/>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,discord,git,linux,bash,py,docker&theme=dark&perline=9"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0a0a0f"/>
-<img src="https://img.shields.io/badge/Node.js-18+-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0a0a0f"/>
-<img src="https://img.shields.io/badge/Automation-ACTIVE-ff1f1f?style=for-the-badge&labelColor=0a0a0f"/>
-<img src="https://img.shields.io/badge/Bots-CLASSIFIED-8b0000?style=for-the-badge&labelColor=0a0a0f"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0f,100:16161c&height=50&section=header&text=C%20O%20N%20T%20A%20C%20T%20%20%20U%20P%20L%20I%20N%20K&fontSize=18&fontColor=ff1f1f" width="80%"/>
-
-<br/><br/>
-
-```diff
-- DO NOT expect a reply.
-+ DO expect to be watched.
-```
-
-<br/>
-
-<img src="https://img.shields.io/badge/SECRET--TOOLS-ff1f1f?style=for-the-badge&labelColor=ff1f1f"/>
-<img src="https://img.shields.io/badge/GITHUB-secret--tools-ff1f1f?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0f"/>
-
-</div>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/secret-tools/secret-tools/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/secret-tools/secret-tools/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/secret-tools/secret-tools/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
-
-<br/>
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,100:ff1f1f&height=100&section=footer&text=END%20OF%20TRANSMISSION&fontSize=28&fontColor=ffffff&animation=twinkling" width="100%"/>
 
 <br/>
