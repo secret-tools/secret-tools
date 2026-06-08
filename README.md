@@ -33,12 +33,8 @@ root@void:~# cat /sys/manifesto.log
 > You are not ready.
 > We are going to open your eyes to the world.
 
-root@void:~# scan --entities
-[FOUND] void-tools    ... legacy
-[FOUND] void-nuke     ... legacy
-[FOUND] redtiger      ... legacy
-[FOUND] navi-tools    ... legacy
-[RESULT] all obsolete. we operate on another layer.
+root@void:~# cat /sys/power.log
+> nos outils feront de vous des monstres de puissance.
 
 root@void:~# ./deploy --mode silent --target discord
 [████████████░░░░░░░░] forging tools in the void...
